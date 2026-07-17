@@ -1,4 +1,4 @@
-# car
+# Navya
 👋 Hello, I'm Navya HN
 💻 Full Stack Developer
 🎓 CSE Student | 🐍 Python Developer | 🌐 Web Developer | 🤖 Machine Learning Enthusiast
